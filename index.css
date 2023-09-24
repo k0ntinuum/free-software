@@ -1,3 +1,9 @@
-body {
+h1 {
     font-family: 'Barriecito', cursive;
+    font-size: 50pt;
+}
+a,p {
+    font-family: 'Xanh Mono', monospace;
+    font-style: italic;
+    font-size: 30pt;
 }
